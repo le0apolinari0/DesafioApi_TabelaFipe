@@ -110,18 +110,19 @@ public class Principal {
 
 
         int opcao = 0;
-        while (opcao != 2) {
+        while (opcao != 1) {
             opcao = leituraDados.nextInt();
 
-        }
-        if (opcao == 2) {
-            exibeMenu();
+            if (opcao == 1) {
+                System.out.println("Obrigado por usar nosso sistema de busca de veiculos : ");
 
-        } else if (opcao == 1) {
-            System.out.println("Obrigado por usar nosso sistema de busca de veiculos : ");
+            } else if (opcao == 2) {
+                exibeMenu();
+                System.out.println(menu);
 
-        } else if (opcao != 1 & opcao != 2) {
-            System.out.println("Opção digitada e invalida !");
+            } else if (opcao != 1 & opcao != 2) {
+                System.out.println("Opção digitada e invalida !");
+            }
         }
     }
 
