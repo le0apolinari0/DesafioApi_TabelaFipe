@@ -29,7 +29,7 @@
 ##  Tecnologias
 <div>
   <img src="https://img.shields.io/badge/Java-D14836?style=for-the-badge&logo=java&logoColor=black">
-  <img src="https://img.shields.io/badge/Spring Boot-239120?&style=for-the-badge&logo=css&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Boot-239120?&style=for-the-badge&logo=Spring-Boot&logoColor=black">
   <img src="https://img.shields.io/badge/Github-3366FF?style=for-the-badge&logo=Github&logoColor=black">
   <img src="https://img.shields.io/badge/Git-FF33FF?style=for-the-badge&logo=Git&logoColor=black">
  
